@@ -1,6 +1,7 @@
 # Blue Ball Saves Us All
 Blue Ball Saves the World A new video game for you and your sister and your dog
-![blueball](https://github.com/user-attachments/assets/2edbff8e-5f3c-4b98-a22c-d9bd4e1e0e88)
+![blueball](https://github.com/user-attachments/assets/d514a56a-a69e-4a9f-afed-3ddf196f1178)
+
 
 # Installation
 Download the files as seen above. Launch the game using "practicegame.exe"
