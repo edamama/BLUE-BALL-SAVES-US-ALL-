@@ -1,5 +1,5 @@
 # Blue Ball Saves Us All
-Blue Ball Saves the World A new video game for you and your sister and your dog
+Blue Ball Saves Us All A new video game for you and your sister and your dog
 ![blueball](https://github.com/user-attachments/assets/d514a56a-a69e-4a9f-afed-3ddf196f1178)
 
 
